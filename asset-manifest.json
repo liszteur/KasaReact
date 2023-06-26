@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KasaReact/static/css/main.00e18d94.css",
-    "main.js": "/KasaReact/static/js/main.9b03c42c.js",
+    "main.js": "/KasaReact/static/js/main.b7d4b331.js",
     "static/js/787.ca3312ba.chunk.js": "/KasaReact/static/js/787.ca3312ba.chunk.js",
     "static/media/BannerPropos.png": "/KasaReact/static/media/BannerPropos.abab3f12f4cb82f1dfa1.png",
     "static/media/BannerHome.png": "/KasaReact/static/media/BannerHome.d00ae7dd3ef927bb988d.png",
@@ -12,11 +12,11 @@
     "static/media/EtoileGrise.svg": "/KasaReact/static/media/EtoileGrise.6675cad5e82b20562acb00a246ae8821.svg",
     "static/media/EtoileRouge.svg": "/KasaReact/static/media/EtoileRouge.55400e938ce0d24b1f3a933ad4f06027.svg",
     "main.00e18d94.css.map": "/KasaReact/static/css/main.00e18d94.css.map",
-    "main.9b03c42c.js.map": "/KasaReact/static/js/main.9b03c42c.js.map",
+    "main.b7d4b331.js.map": "/KasaReact/static/js/main.b7d4b331.js.map",
     "787.ca3312ba.chunk.js.map": "/KasaReact/static/js/787.ca3312ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00e18d94.css",
-    "static/js/main.9b03c42c.js"
+    "static/js/main.b7d4b331.js"
   ]
 }
