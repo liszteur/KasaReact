@@ -3,7 +3,7 @@
 Il répertorie les différents logements disponibles pour trouver l'endroit rêvé de ses vacances!
 Et fournis avec tout un tas d'informations complémentaires! :+1:
 
-Le site est en ligne à cette adresse : :star:   https://liszteur.github.io/KasaReact/    :star:
+Le site est en ligne ! : :star:   https://liszteur.github.io/KasaReact/    :star:
 -
 Codé en React ! 
 
