@@ -18,9 +18,9 @@ root.render(
     <HashRouter>
       <Header />
        <Routes>
-         <Route path="/" element={<Home/>} />
-         <Route path="/logement/c67ab8a7" element={<Logement/>} />
-         <Route path="/propos" element={<Propos/>} />
+         <Route path="" element={<Home/>} />
+         <Route path="logement/c67ab8a7" element={<Logement/>} />
+         <Route path="propos" element={<Propos/>} />
          <Route path="*" element={<Error/>} />
        </Routes>
       <Footer />
