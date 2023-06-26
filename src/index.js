@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
-import { BrowserRouter, Routes, Route} from "react-router-dom"
+import { BrowserRouter, Routes, Route, HashRouter} from "react-router-dom"
 
 import Header from "./Composants/Header"
 import Footer from "./Composants/Footer"
@@ -15,7 +15,7 @@ import Propos from "./Pages/Propos"
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <Header />
        <Routes>
          <Route path="/" element={<Home/>} />
@@ -24,7 +24,7 @@ root.render(
          <Route path="*" element={<Error/>} />
        </Routes>
       <Footer />
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>
 );
 
